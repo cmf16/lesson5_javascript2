@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(October 28, 2018)
 
 ### Student Name:  
-(First and Last Name)
+Claire Fry
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This assignment converted U.S. dollars to currency types of other countries using branching statements.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://cmf16.github.io/lesson5_javascript2/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. I learned how to use branching statements to execute a users menu selections.
+2. I learned how to overwrite existing values with the getElementById() Method and reset the calculator.
+3. I learned how to assign a numeric value to the menu options.
 
